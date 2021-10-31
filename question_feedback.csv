@@ -1,0 +1,103 @@
+Timestamp,"Write a question relevant to our subjects which profs ask(eg. What is NLP?, Can someone tell me the difference between ML and AI? etc.)",Is the question difficult?,Is the question interesting?
+10/10/2021 9:23:06,What is NLP?,No,No
+10/10/2021 9:26:03,Can someone tell me the difference between ML and AI?,No,Yes
+10/10/2021 10:00:22,Difference between deep learning and machine learning,Yes,Yes
+10/10/2021 10:34:10,What is Machine Learning?,No,Yes
+10/10/2021 10:43:34,Mention some real life problems that can be solved using NLP?,No,Yes
+10/10/2021 11:44:01,What is engineering?,Yes,No
+10/10/2021 12:17:57,What's deep learning,Yes,Yes
+10/10/2021 12:25:56,Do u like Idli or dosa? can you elucidate your answer?,Yes,Yes
+10/10/2021 12:33:47,Why is MIMD better than SIMD ?,Yes,Yes
+10/10/2021 12:35:07,What are the project specifications for waterfall model?,Yes,Yes
+10/10/2021 14:02:03,Whats the difference between addition and subtraction,No,Yes
+10/10/2021 16:38:11,What are the applications of AI?,No,Yes
+10/11/2021 14:24:43, Identify the morphological variants for the given words,No,Yes
+10/11/2021 14:25:16,Draw an FST which recognizes the affix-ed associated with regular verbs in English.,Yes,Yes
+10/11/2021 14:26:50,What are the data structures which can be used in crawlers,Yes,Yes
+10/11/2021 14:28:26,Can someone derive the time complexity for the heapify function?,Yes,No
+10/11/2021 14:28:54,What are the different notations used in time complexity?,No,No
+10/11/2021 14:29:39,How many students here are comfortable in programming? ,No,No
+10/11/2021 14:33:23,Which data structure would be suitable here?,No,Yes
+10/11/2021 14:34:05,What is star topology?,No,No
+10/11/2021 14:34:25,Can somebody summarize the difference between ADT and data structures?,Yes,No
+10/11/2021 14:35:32,Can anyone explain cross site scripting?,No,Yes
+10/11/2021 14:36:19,Will machines take over humans?,Yes,Yes
+10/11/2021 14:36:42,Does anybody have an idea about the structure of the internet?,No,Yes
+10/11/2021 14:37:52,Can someone suggest some measures to avoid hash collision? ,Yes,Yes
+10/11/2021 14:38:17,What is System Design?,No,Yes
+10/11/2021 14:39:15,What are some operating system concepts which are used in elevators? ,Yes,Yes
+10/11/2021 14:41:24,What are the differences between finite state transducers and automata?,Yes,Yes
+10/11/2021 14:42:57,Who is the better spinner in terms of economy? - Yuzi Chahal or Ravi Ashwin,No,Yes
+10/11/2021 14:46:01,Can u explain the theory behind Shane Warne's ball of the century?,Yes,Yes
+10/11/2021 14:46:08,Someone point out the draw backs of single perceptrons,Yes,Yes
+10/11/2021 14:46:36,Have you all understood?,No,No
+10/11/2021 14:47:33,What is 2 + 2?,No,No
+10/13/2021 9:34:44,What is the data structure used for LIFO operations?,No,Yes
+10/13/2021 9:35:15,What is the Time Complexity of Merge Sort?,No,Yes
+10/13/2021 9:36:20,What is the full form of NLP?,No,No
+10/13/2021 9:36:41,What is Dark Web?,No,Yes
+10/13/2021 9:37:02,Is HTML a programming Language?,Yes,Yes
+10/13/2021 9:37:19,What are the selectors in CSS?,No,Yes
+10/13/2021 9:39:38,What is the Capital of Belgium?,No,No
+10/13/2021 9:40:12,Explain the advantages of Agile SCRUM.,No,Yes
+10/13/2021 9:41:10,What are the different frameworks for JavaScript?,No,No
+10/13/2021 9:42:20,What are the prime factors of 6?,No,No
+10/13/2021 9:43:25,Elaborate on the crimes committed in Dark Web.,Yes,Yes
+10/13/2021 9:44:04,Who are the founders of Google?,No,Yes
+10/13/2021 9:51:11,Explain the lifecycle model of Business Data Analytics,Yes,Yes
+10/13/2021 9:51:39,How do Banks incorporate Data Analytic Techniques?,Yes,Yes
+10/13/2021 10:16:07,Explain the interrupt routines of 8086.,Yes,Yes
+10/13/2021 10:16:28,Who is Napoleon Bonaparte?,No,No
+10/13/2021 11:00:15,Explain MiniMax algorithm.,Yes,Yes
+10/13/2021 11:01:23,What is data warehousing?,No,No
+10/13/2021 11:02:27,Design a Large Scale Distributed System.,Yes,Yes
+10/13/2021 11:02:58,Invert a binary tree.,No,Yes
+10/13/2021 11:03:59,Reverse LinkedList in groups of k nodes.,Yes,Yes
+10/13/2021 11:04:21,What did we discuss last class?,No,No
+10/13/2021 11:04:37,What are the 5 levels of data validation?,No,No
+10/13/2021 11:05:11,What is a monarchy?,No,No
+10/13/2021 11:05:30,What is the Arab Spring?,No,Yes
+10/13/2021 11:05:50,Why was Assad's regime opposed in Syria?,Yes,Yes
+10/13/2021 11:06:07,How significant is the 4-color theorem in real world applications? Elucidate.,Yes,Yes
+10/13/2021 11:08:35,Explain the six key points of success defined by Arnold.,No,Yes
+10/13/2021 11:09:07,"How was the government responsible for the economic slowdown caused before the pandemic, in india?",No,Yes
+10/13/2021 11:11:32,What is a Losless Compression Algorithm?,Yes,Yes
+10/13/2021 11:12:25,What does Oculus work on?,No,Yes
+10/13/2021 11:13:30,What are the various levels of RAID in OS ?,No,No
+10/13/2021 11:14:17,What are the different kinds of operations that are possible on semaphore?,No,No
+10/13/2021 11:14:44,What is the difference between NP-Hard and NP-Complete,Yes,No
+10/13/2021 11:15:10,Is it  possible to build a decentralized internet which is not controllable by anyone?,Yes,Yes
+10/13/2021 11:15:28,How can machines make meaning out of language,No,Yes
+10/13/2021 11:15:58,Why does Germany have the lowest inflation rate among all the countries?,Yes,Yes
+10/13/2021 11:16:09,What is reverse engineering?,No,Yes
+10/13/2021 11:16:19,How can we resolve ambiguity in language?,Yes,Yes
+10/13/2021 11:16:32,Can someone summarize the topics discussed in class.,No,No
+10/13/2021 11:16:55,Why was Machine Learning Introduced,No,Yes
+10/13/2021 11:17:17,What's the main purpose of an OS?,No,No
+10/13/2021 11:17:21,What is 'Naive' in a Naive Bayes,No,Yes
+10/13/2021 11:17:37,What is Unsupervised Learning,No,No
+10/13/2021 11:17:54,What's the trade-off between bias and variance,No,No
+10/13/2021 11:20:40,What is the difference between paging and segmentation?,No,Yes
+10/13/2021 11:20:56,Are threads useful without multiple cores?,No,Yes
+10/13/2021 11:21:02,What is starvation and aging in OS?,No,Yes
+10/13/2021 11:21:12,What are various types of Operating System?,No,Yes
+10/13/2021 11:21:24,How can we parallelize this program?,Yes,Yes
+10/13/2021 11:22:30,Write difference between micro kernel and monolithic kernel?,No,No
+10/13/2021 11:22:55,How can you overcome overfitting? ,Yes,Yes
+10/13/2021 11:23:09,"Is it possible capture the correlation between continuous and categorical variable? If yes, how?",Yes,Yes
+10/13/2021 11:23:27,Simple random sampling of training data set into training and validation set works well for the regression problem. But what can go wrong with this approach for a classification problem? What can be done about it?,Yes,Yes
+10/13/2021 11:23:38,"Which is more important to you – model accuracy, or model performance?",No,Yes
+10/13/2021 11:23:40,What are the two modes of 8086?,No,No
+10/13/2021 11:23:53,Let’s say you have a extremely small memory/storage. What kind of algorithm would you prefer — logistic regression or k-nearest neighbor? Why? ,Yes,Yes
+10/13/2021 11:24:52,"Is the role of strategic management changing in the context of current economic processes and the development of new information technologies typical of the current fourth technological revolution, known as Industry 4.0?",Yes,Yes
+10/13/2021 11:25:59,Is it clear?,No,No
+10/13/2021 11:26:16,Do you have any doubts?,No,No
+10/13/2021 11:26:29,Why was demonetization a blunder ? How did it back fire?,No,Yes
+10/13/2021 11:26:51,What architecture does Mac M1 chip uses ARM or x86?,No,Yes
+10/13/2021 11:28:06,What were the factors contributing to the 'Emu bubble burst' of 2012? How was the scam carried out?,Yes,Yes
+10/13/2021 11:29:52,What were the takeaways from Facebook's testification two years go?,No,Yes
+10/13/2021 11:30:25, What is NLTK?  ,No,No
+10/13/2021 11:30:43,Why is there a huge difference between the price of mutton and chicken meat?,No,No
+10/13/2021 11:33:37,How is runtime polymorphism achieved? ,No,Yes
+10/13/2021 11:35:01,what is the 20-30-50 rule?,No,No
+10/13/2021 11:38:16,What impact would be observed if one dollar was equal to one ruppee?,Yes,Yes
