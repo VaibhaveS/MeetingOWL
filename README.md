@@ -14,7 +14,7 @@ This application aims to classify the interactiveness of meetings based on the a
   <li> Number of difficult questions </li> 
  </ul>
 </p>
-
+<br/><br/>
 <p align="center">
   <img src="https://github.com/VaibhaveS/MeetingOWL/blob/main/LOGO4.gif" width="350" title="hover text">
 </p>
