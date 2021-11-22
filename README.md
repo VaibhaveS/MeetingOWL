@@ -2,7 +2,7 @@
 
 <p>
 <h2> Measuring interactivty in a meeting using ML & NLP </h2> 
-This application aims to classify the interactiveness of meetings based on the audio of the meeting
+<!-- This application aims to classify the interactiveness of meetings based on the audio of the meeting -->
 </p>
 
 <p>
